@@ -1,0 +1,14 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\MyEasyData.dll.config
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\MyEasyData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\MyEasyData.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\System.Web.Http.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\System.Web.Http.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\obj\Debug\MyEasyData.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\obj\Debug\MyEasyData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\MyEasyData\MyEasyData\obj\Debug\MyEasyData.pdb
